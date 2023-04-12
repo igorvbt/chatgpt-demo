@@ -49,7 +49,7 @@ export default function Home() {
           />
           <input type="submit" value="Perguntar" />
         </form>
-        <div className={styles.result}>{result}</div>
+        <div  className={styles.result}>{result}</div>
       </main>
     </div>
   );
